@@ -1,4 +1,4 @@
-module github.com/celo/celo-blockchain
+module github.com/blockdaemon/celo-blockchain
 
 go 1.13
 
