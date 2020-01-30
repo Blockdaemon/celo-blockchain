@@ -8,7 +8,7 @@ require (
 	github.com/aristanetworks/goarista v0.0.0-20170210015632-ea17b1a17847
 	github.com/btcsuite/btcd v0.0.0-20171128150713-2e60448ffcc6
 	github.com/celo-org/bls-zexe/go v0.0.0-20200112083511-97386184eb28
-	github.com/celo-org/celo-blockchain v0.0.0-20200129231733-e667f6b08419
+	github.com/blockdaemon/celo-blockchain v0.0.0-20200130074413-70a164e7a3f7
 	github.com/cespare/cp v0.1.0
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
 	github.com/davecgh/go-spew v1.1.1
