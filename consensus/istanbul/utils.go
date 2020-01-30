@@ -19,7 +19,7 @@ package istanbul
 import (
 	"encoding/hex"
 	"errors"
-	blscrypto "github.com/ethereum/go-ethereum/crypto/bls"
+	blscrypto "github.com/celo-org/celo-blockchain/crypto/bls"
 	"math/big"
 
 	"github.com/ethereum/go-ethereum/common"

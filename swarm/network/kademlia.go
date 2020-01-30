@@ -27,7 +27,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/swarm/log"
 	"github.com/ethereum/go-ethereum/swarm/pot"
-	sv "github.com/ethereum/go-ethereum/swarm/version"
+	sv "github.com/celo-org/celo-blockchain/swarm/version"
 )
 
 /*

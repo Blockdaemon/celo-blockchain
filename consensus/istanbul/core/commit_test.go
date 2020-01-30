@@ -26,7 +26,7 @@ import (
 	"github.com/ethereum/go-ethereum/consensus/istanbul/validator"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/crypto"
-	blscrypto "github.com/ethereum/go-ethereum/crypto/bls"
+	blscrypto "github.com/celo-org/celo-blockchain/crypto/bls"
 )
 
 func TestHandleCommit(t *testing.T) {

@@ -19,7 +19,7 @@ package backend
 import (
 	"errors"
 	"fmt"
-	blscrypto "github.com/ethereum/go-ethereum/crypto/bls"
+	blscrypto "github.com/celo-org/celo-blockchain/crypto/bls"
 	"math/big"
 	"sync"
 	"time"

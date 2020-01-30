@@ -85,5 +85,5 @@ imports:
   - context
   - context/ctxhttp
 testImports:
-- name: github.com/uber-go/atomic
+- name: go.uber.org/atomic
   version: 8474b86a5a6f79c443ce4b2992817ff32cf208b8

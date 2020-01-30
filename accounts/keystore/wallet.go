@@ -18,7 +18,7 @@ package keystore
 
 import (
 	"crypto/ecdsa"
-	blscrypto "github.com/ethereum/go-ethereum/crypto/bls"
+	blscrypto "github.com/celo-org/celo-blockchain/crypto/bls"
 	"github.com/ethereum/go-ethereum/log"
 	"math/big"
 

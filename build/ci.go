@@ -60,7 +60,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/internal/build"
 	"github.com/ethereum/go-ethereum/params"
-	sv "github.com/ethereum/go-ethereum/swarm/version"
+	sv "github.com/celo-org/celo-blockchain/swarm/version"
 )
 
 var (

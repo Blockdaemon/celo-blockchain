@@ -2,7 +2,7 @@ package core
 
 import (
 	"encoding/json"
-	blscrypto "github.com/ethereum/go-ethereum/crypto/bls"
+	blscrypto "github.com/celo-org/celo-blockchain/crypto/bls"
 	"math/big"
 	"reflect"
 	"sort"

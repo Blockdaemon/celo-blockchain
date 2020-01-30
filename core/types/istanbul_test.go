@@ -18,7 +18,7 @@ package types
 
 import (
 	"bytes"
-	blscrypto "github.com/ethereum/go-ethereum/crypto/bls"
+	blscrypto "github.com/celo-org/celo-blockchain/crypto/bls"
 	"math/big"
 	"reflect"
 	"testing"

@@ -20,7 +20,7 @@ import (
 	"reflect"
 
 	"github.com/ethereum/go-ethereum/consensus/istanbul"
-	blscrypto "github.com/ethereum/go-ethereum/crypto/bls"
+	blscrypto "github.com/celo-org/celo-blockchain/crypto/bls"
 )
 
 func (c *core) sendCommit() {

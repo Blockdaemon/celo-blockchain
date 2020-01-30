@@ -47,7 +47,7 @@ import (
 	"github.com/ethereum/go-ethereum/swarm/storage/mock"
 	mockrpc "github.com/ethereum/go-ethereum/swarm/storage/mock/rpc"
 	"github.com/ethereum/go-ethereum/swarm/tracing"
-	sv "github.com/ethereum/go-ethereum/swarm/version"
+	sv "github.com/celo-org/celo-blockchain/swarm/version"
 	cli "gopkg.in/urfave/cli.v1"
 )
 
